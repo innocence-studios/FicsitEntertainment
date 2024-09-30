@@ -5,7 +5,7 @@
             "OmegaDrivePropulsor":50,
             "PseudohumanDevelopmentCalculator":50,
             "ThermoreactiveParticleBlend":50000,
-            "UltrapreciseQuantumSynthetiser":50,
+            "UltrapreciseQuantumSynthetiser":50
         },
         "product":{"EntertainmentEssence":1},
         "overriden_category":"Special",
@@ -16,6 +16,6 @@
         "material_customization_recipe":null,
         "variable_power_a":0.0,
         "variable_power_b":1.0,
-        "relevant_event":[],
+        "relevant_event":[]
     }
 }
