@@ -17,5 +17,79 @@
         "variable_power_a":0.0,
         "variable_power_b":1.0,
         "relevant_event":[]
+    },
+    "OmegaDrivePropulsor":{
+        "display_name":"Omegadrive Propulsor",
+        "ingredients":{
+            "BalisticWarpDrive":10,
+            "??":0,
+            "???":0,
+            "????":0
+        },
+        "product":{"Omegadrive Propulsor":1},
+        "overriden_category":"Special",
+        "manufacturing_menu_priority":-254,
+        "manufacturing_duration":1000,
+        "manual_manufacturing_duration":1,
+        "produced_in":"Manufacturer",
+        "material_customization_recipe":null,
+        "variable_power_a":0.0,
+        "variable_power_b":1.0,
+        "relevant_event":[]
+    },
+    "PseudohumanDevelopmentCalculator":{
+        "display_name":"Omegadrive Propulsor",
+        "ingredients":{
+            "AIExpantionServer":15,
+            "??":0,
+            "???":0,
+            "????":0
+        },
+        "product":{"Omegadrive Propulsor":1},
+        "overriden_category":"Special",
+        "manufacturing_menu_priority":-254,
+        "manufacturing_duration":1000,
+        "manual_manufacturing_duration":1,
+        "produced_in":"Manufacturer",
+        "material_customization_recipe":null,
+        "variable_power_a":0.0,
+        "variable_power_b":1.0,
+        "relevant_event":[]
+    },
+    "ThermoreactiveParticleBlend":{
+        "display_name":"Thermoreactive Particle Blend",
+        "ingredients":{
+            "Fictofuel":10000,
+            "IonizedFuel":10000,
+            "HeavyWater":10000,
+            "Aerogel":10000
+        },
+        "product":{"Thermoreactive Particle Blend":1000},
+        "overriden_category":"Special",
+        "manufacturing_menu_priority":-254,
+        "manufacturing_duration":24,
+        "manual_manufacturing_duration":1,
+        "produced_in":"Agitator",
+        "material_customization_recipe":null,
+        "variable_power_a":0.0,
+        "variable_power_b":1.0,
+        "relevant_event":[]
+    },
+    "UltrapreciseQuantumSynthetiser":{
+        "display_name":"Ultraprecise Quantum Synthetiser",
+        "ingredients":{
+            "BiochemicalSculptor":50,
+            "PowerShard":15
+        },
+        "product":{"Ultraprecise Quantum Synthetiser":1},
+        "overriden_category":"Special",
+        "manufacturing_menu_priority":-254,
+        "manufacturing_duration":480,
+        "manual_manufacturing_duration":1,
+        "produced_in":"Manufacturer",
+        "material_customization_recipe":null,
+        "variable_power_a":0.0,
+        "variable_power_b":1.0,
+        "relevant_event":[]
     }
 }
