@@ -1,0 +1,21 @@
+{
+    "EntertainmentEssence":{
+        "display_name":"En██rta█n█ent █om██l█ti█n",
+        "ingredients":{
+            "OmegaDrivePropulsor":50,
+            "PseudohumanDevelopmentCalculator":50,
+            "ThermoreactiveParticleBlend":50000,
+            "UltrapreciseQuantumSynthetiser":50,
+        },
+        "product":{"EntertainmentEssence":1},
+        "overriden_category":"Special",
+        "manufacturing_menu_priority":-255,
+        "manufacturing_duration":3600,
+        "manual_manufacturing_duration":1,
+        "produced_in":"QuantumEncoder",
+        "material_customization_recipe":null,
+        "variable_power_a":0.0,
+        "variable_power_b":1.0,
+        "relevant_event":[],
+    }
+}

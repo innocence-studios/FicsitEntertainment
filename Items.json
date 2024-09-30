@@ -1,0 +1,57 @@
+{
+    "UraniumEssence":{
+        "display_name":"Uranium Essence",
+        "description":"Slightly Radioactive",
+        "abreviated_name":"UrEs",
+        "stack_size":"Small",
+        "discard":false,
+        "remember_pickup":false,
+        "energy_value":100000.0,
+        "radioactive_decay":250.0,
+        "form":"Solid"
+    },
+    "PlutoniumEssence":{
+        "display_name":"Plutonium Essence",
+        "description":"Just a bit Radioactive",
+        "abreviated_name":"PlEs",
+        "stack_size":"Small",
+        "discard":false,
+        "remember_pickup":false,
+        "energy_value":500000.0,
+        "radioactive_decay":400.0,
+        "form":"Solid"
+    },
+    "UraniumFuel":{
+        "display_name":"Uranium Fuel",
+        "description":"Please don't drink it...",
+        "abreviated_name":"",
+        "stack_size":"Fluid",
+        "discard":false,
+        "remember_pickup":false,
+        "energy_value":2000000.0,
+        "radioactive_decay":500.0,
+        "form":"Liquid"
+    },
+    "PlutoniumFuel":{
+        "display_name":"Plutonium Fuel",
+        "description":"...You could go to military prison for this.",
+        "abreviated_name":"",
+        "stack_size":"Fluid",
+        "discard":false,
+        "remember_pickup":false,
+        "energy_value":5000000.0,
+        "radioactive_decay":500.0,
+        "form":"Liquid"
+    },
+    "EntertainmentEssence":{
+        "display_name":"Essence of Entertainment",
+        "description":"This recipe sure is fun",
+        "abreviated_name":"████",
+        "stack_size":"One",
+        "discard":false,
+        "remember_pickup":true,
+        "energy_value":0.0,
+        "radioactive_decay":999999999.0,
+        "form":"Solid"
+    }
+}
